@@ -1,0 +1,5 @@
+func suma(a, b);
+func saludar(nombre);
+
+suma(x, y);
+saludar("Juan");

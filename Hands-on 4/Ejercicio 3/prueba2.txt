@@ -1,0 +1,7 @@
+func calcular(x, y, z);
+func mostrar(dato);
+
+calcular(a, b, c);
+mostrar("texto");
+suma(1, 2, 3);
+funcion_no_declarada(param);

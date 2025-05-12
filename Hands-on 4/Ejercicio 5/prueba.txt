@@ -1,0 +1,9 @@
+int x;
+x = y;
+func f(a, b) {
+    x = a;
+    f(a);
+    return a;
+}
+J(x, x);
+f(x);
